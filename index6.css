@@ -1,0 +1,101 @@
+.div1 {
+    width: 100%;
+    height: 30%;
+    background-color: darkslateblue;
+    padding-top: 15px;
+    padding-bottom: 7%;
+    
+}
+h1 {
+    font-weight: 200;
+    color: white;
+    font-weight: bold;
+    margin-top: 4%;
+    
+}
+
+.button {
+    width: 9%;
+    color: darkslateblue;
+    margin: 20px 20px;
+    padding: 15px 20px;
+    text-align: center;
+    justify-content: center;
+    position: relative; 
+}
+.div2 {
+    background-color: gray;
+    background-position: center;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+
+
+}
+.div3 {
+    background-color: brown;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+.div5 {
+    background-color: brown;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div51 {
+    background-color: aquamarine;
+}
+.div6 {
+    background-color:darksalmon;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div21 {
+    display: flex;
+    padding-right: 40%;
+    margin-right: auto;
+    flex-direction: column; 
+
+}
+.div22 {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+/* .div221 {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.div222 {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+} */
+
+#p21 {
+    padding-right: 30%;
+    padding-top: 25%;
+
+
+}
+#p22 {
+    padding-left: 30%;
+    padding-top: 25%;
+  
+
+}
